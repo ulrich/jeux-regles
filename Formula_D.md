@@ -46,7 +46,7 @@ Chez [Tofopolis](http://www.tofopolis.com/jeux-entre-amis/560-formulad-355838000
     - Donc, le joueur tous les autres joueurs qui sont en 5ème ou 6ème doivent tirer le dé noir
         - Si un joueur fait entre 1 et 4 il perd un point de moteur
 - En cas d'accrochage ou si un joueur perd un moteur, il doit poser un débris sur sa case
-    - Si un joueur passe sur une case avec un débris
+    - Si un joueur passe sur une case avec un débris,
         - Il tire le dé noir et si il fait 1 à 4, il perd un point de tenue de route (violet)
 - Utiliser l'aspiration
     - Si un joueur arrive derrière un autre joueur avec une vitesse minimum en 4 et que l'on soit à la même vitesse que lui ou plus
